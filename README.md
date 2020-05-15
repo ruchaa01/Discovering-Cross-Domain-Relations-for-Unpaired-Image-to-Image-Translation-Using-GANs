@@ -8,7 +8,8 @@ This repository contains:
 Code for generating model and architecture of DiscoGAN (training + test on CelebA dataset)
 # Results_DiscoGAN_model: 
 Results obtained on 5 test images fter training on CelebA dataset for DiscoGAN_model code
-![](ResultsfordiscoGAN.png)
+![](/ResultsfordiscoGAN.png)
+
 # DiscoGAN_Image_Generator: 
 Code for Testing our trained DiscoGAN model on real-world images
 # Test_Images_DiscoGAN_Image_generator: 
