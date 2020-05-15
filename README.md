@@ -14,5 +14,7 @@ Results obtained on 5 test images fter training on CelebA dataset for DiscoGAN_m
 Code for Testing our trained DiscoGAN model on real-world images
 # Test_Images_DiscoGAN_Image_generator: 
 Team members images given as input to the DiscoGAN_Image_Generator.ipynb code
+![](Test_Images_DiscoGAN_Image_Generator/ImageGenerator.PNG)
+
 # Plot_of_losses : 
 Code for plotting generator loss, discriminator loss, feature mapping loss and reconstruction after training on DiscoGAN_model.ipynb code for CelebA dataset
